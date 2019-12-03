@@ -1,0 +1,11 @@
+Ticket Master Event Recommendation System(2019).
+•Researched  common  methods  (User-based,  Content-based,  Demographic-based,  Item-based  etc.) to provide event recommendation based on item profile.
+•Developed  an  interactive  web  page  (HTML/CSS/Javascript/Ajax/JSON/XML) for users to searchevents, update preference and view recommended events.
+•Developed a web service using (Java servlet, REST API) to fetch event data from TicketMaster API.
+•Utilized MySQL/MongoDB to store user preference and event information.
+•Designed a content-based recommendation algorithm to match similar events based on categories.
+•Improved precision of recommendation by ordering events based on distance and matched categories
+•Tested the webservice and app with unit tests (JUnit) and load tests (JMeter).
+•Maintain the website on Amazon EC2
+The developed website can be found on:
+http://ec2-13-58-45-116.us-east-2.compute.amazonaws.com/Jupiter/#
